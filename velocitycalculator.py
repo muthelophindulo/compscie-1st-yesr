@@ -16,4 +16,4 @@ print(f"The final velocity of the car is {final_velocity}")
 #initial_velocity = 15.4
 #accelaration = 9.8
 #time = 2.3
-#output = 
+#output =  37.94
