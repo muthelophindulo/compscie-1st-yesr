@@ -1,6 +1,6 @@
 """
 program_name : debt_calculator
-aurthor : muthelo phindulo
+aurthor : muthelo_phindulo
 student_number : 
 
 input:  principal_amount
