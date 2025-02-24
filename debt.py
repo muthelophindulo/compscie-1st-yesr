@@ -1,7 +1,7 @@
 """
-program_name : debt
+program_name : debt_calculator
 aurthor : muthelo phindulo
-student_number : 225004680
+student_number : 
 
 input:  principal_amount
         numner_of_years
