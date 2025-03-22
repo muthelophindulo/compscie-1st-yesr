@@ -1,6 +1,6 @@
 """
 Name: Muthelo Phindulo
-Student Number: 225004680
+Student Number: 
 
 Program Name: Rock_Paper_Scissors game
 
